@@ -10,3 +10,4 @@ including fortran complier, mpi, and netcdf
 * GZ_gjp
 * GZ_juno GZ_bl
 
+yanning---DanDanDanshen
